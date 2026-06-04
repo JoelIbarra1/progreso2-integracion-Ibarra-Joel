@@ -1,0 +1,1 @@
+2026-06-03 20:34:58 | Motivo: idCita obligatorio | Payload: CitaRequest{idCita='', paciente='Ana Torres', correo='null', especialidad='null', fechaCita='null', sede='null', valor=-10.0}
