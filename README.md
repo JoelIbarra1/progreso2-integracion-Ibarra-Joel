@@ -15,7 +15,7 @@ Solución de integración para "Salud360" que automatiza el flujo de registro de
 2. Ejecutar la aplicación: `mvn spring-boot:run`
 
 ## Endpoint Disponible
-`POST http://localhost:8080/api/citas`
+`POST http://localhost:8090/api/citas`
 **Content-Type:** application/json
 
 ## Ejemplo Request Válido
